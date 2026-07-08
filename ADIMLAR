@@ -1,0 +1,9 @@
+1- Projeyi forkla, daha sonra clone et.
+git clone find https://github.com/boranacikbas/data-science-project-1.git yazarak yaptik
+
+2- Visual Code uzerinden proje klasorunu ac. 
+3- Projenin Readme dosyasındaki komutları terminalde sırayla enterla. 
+4- init.db içindeki CREATE ve INSERT scriptlerini kendi localinde çalıştır.
+5- Readme'deki question 1 datadaki questions.py deki query 1 olacak şekilde soruları cevapla. 
+6- Veritabanı şifresini kendi şifrenle değiştii
+7- Projeyi bitirdikten sonra student_id mi test_question_py içindeki user_id kısmına ve project_id kısmına yapıştır. 601 ID
