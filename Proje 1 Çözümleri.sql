@@ -1,3 +1,4 @@
+-- SQL Proje Çözüm Dosyası
 SELECT * FROM customers
 
 SELECT * FROM orders ORDER BY total_amount DESC LIMIT 5
