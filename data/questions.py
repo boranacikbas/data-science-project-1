@@ -1,3 +1,4 @@
+# Python veri tabani baglanti ve sorgu fonksiyonlari
 import psycopg2
 
 ## Bu değeri localinde çalışırken kendi passwordün yap. Ama kodu pushlarken 'postgres' olarak bırak.
